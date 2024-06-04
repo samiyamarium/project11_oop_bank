@@ -1,0 +1,26 @@
+{
+  "name": "oop_bank_samiya",
+  "version": "1.0.0",
+  "description": "bank console app",
+  "main": "index.js",
+  "bin": {
+    "oop_bank_samiya": "bin/index.js"
+  },
+  "scripts": {
+    "test": "\\*credit*\\"
+  },
+  "keywords": [
+    "bank",
+    "oop",
+    "console",
+    "credit",
+    "debit",
+    "balance"
+  ],
+  "author": "samiya marium",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0"
+  }
+}
